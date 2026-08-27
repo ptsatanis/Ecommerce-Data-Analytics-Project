@@ -24,5 +24,12 @@ The project demonstrates an end-to-end data pipeline from **raw ingestion → da
 
 This project showcases practical experience with **Databricks, distributed data processing with PySpark, SQL-based analytics, Delta Lake, and Medallion Architecture**.
 
-Below is a dashboard that shows the aforementioned metrics:
+📈 Dashboard
+
+The dashboard below visualizes the key business metrics developed as part of the project, including:
+
+   *  **Monthly revenue trends**
+   *  **Revenue by payment method**
+   *  **Top 10 product categories by revenue**
+
 ![Key Metrics Dashboard](dashboards.png)
