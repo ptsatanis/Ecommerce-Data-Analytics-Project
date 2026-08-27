@@ -23,3 +23,6 @@ The project demonstrates an end-to-end data pipeline from **raw ingestion → da
 **Raw Data → Bronze → Silver → Gold → Analytics & Dashboards**
 
 This project showcases practical experience with **Databricks, distributed data processing with PySpark, SQL-based analytics, Delta Lake, and Medallion Architecture**.
+
+Below is a dashboard that shows the aforementioned metrics:
+![Key Metrics Dashboard](dashboards.png)
